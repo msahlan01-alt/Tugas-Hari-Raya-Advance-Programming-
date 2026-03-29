@@ -44,7 +44,7 @@ Each folder contains:
 ## 📄 Assignment Reference
 
 The original assignment can be accessed here:  
-[View Assignment]([https://elearn.uc.ac.id/pluginfile.php/1391495/mod_assign/introattachment/0/Advanced%20Programming%20Question_%20Inheritance%20and%20Polymorphism.pdf?forcedownload=1](https://drive.google.com/file/d/1cfgCzm3qtW88lJ16kbZPW2hRo9MfGUTX/view?usp=sharing))
+[View Assignment](https://drive.google.com/file/d/1cfgCzm3qtW88lJ16kbZPW2hRo9MfGUTX/view?usp=sharing)
 
 ---
 
