@@ -41,6 +41,13 @@ Each folder contains:
 
 ---
 
+## 📄 Assignment Reference
+
+The original assignment can be accessed here:  
+[View Assignment](https://elearn.uc.ac.id/pluginfile.php/1391495/mod_assign/introattachment/0/Advanced%20Programming%20Question_%20Inheritance%20and%20Polymorphism.pdf?forcedownload=1)
+
+---
+
 ## 📌 Implementation Notes
 
 **B**alanced decisions were required when interpreting ambiguous requirements.
